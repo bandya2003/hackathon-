@@ -1,2 +1,8 @@
-# Mobile_Shopee-E-Commerce-Website
-In this complete E-commerce Website, We will take a look at how to create Mobile Shopee Using PHP and Mysql Database. We gonna start by creating an HTML template then convert it into PHP and then use MySQL database to fetch products and display it in the project.
+#Online kisan Wbsite
+ This is complete E-commerce Website, Made for farmers to Directly update their products on the site and sell directly to the consumers. 
+Technologies used 
+HTML 5
+CSS 3
+BOOTSTRAP
+PHP
+MySQL
